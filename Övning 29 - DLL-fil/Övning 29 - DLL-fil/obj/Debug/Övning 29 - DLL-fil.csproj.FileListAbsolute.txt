@@ -1,0 +1,10 @@
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\bin\Debug\Övning 29 - DLL-fil.exe.config
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\bin\Debug\Övning 29 - DLL-fil.exe
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\bin\Debug\Övning 29 - DLL-fil.pdb
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\bin\Debug\MySQLLibrary.dll
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\bin\Debug\MySQLLibrary.pdb
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\obj\Debug\Övning 29 - DLL-fil.csprojAssemblyReference.cache
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\obj\Debug\Övning 29 - DLL-fil.csproj.CoreCompileInputs.cache
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\obj\Debug\Övning 29 - DLL-fil.csproj.CopyComplete
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\obj\Debug\Övning 29 - DLL-fil.exe
+C:\Projects\Övning 29 - DLL-fil\Övning 29 - DLL-fil\obj\Debug\Övning 29 - DLL-fil.pdb
